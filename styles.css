@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    background-color: #FFE4E1;
+}
+
+h1 {
+    color: #C71585;
+    margin-top: 120px;
+    margin-bottom: 180px;
+    font-size: 100px;
+}
+
+button {
+    background-color: #DB7093;
+    color: white;
+    border: none;
+    padding: 24px 50px;
+    font-size: 22px;
+}
+
+.pressed {
+    box-shadow: 0 3px 4px 0 #dbedf3;
+    opacity: 0.5;
+}
